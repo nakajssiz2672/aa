@@ -100,4 +100,5 @@ Counter = {
     }
 }
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/nakajssiz2672/aa/refs/heads/main/blox_fruits_macro.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/nakajssiz2672/aa/main/blox_fruits_macro.lua
+'))()
